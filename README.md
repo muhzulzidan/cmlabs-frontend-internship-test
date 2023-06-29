@@ -1,5 +1,6 @@
 # Front-end Developer Internship Practical Tasks
 
+See the site on Netlify: [cmlabs-frontend-internship-test.netlify.app](https://cmlabs-frontend-internship-test.netlify.app/)
 ## Pre-assessment Test / FE-PT-01-1
 
 **Type**: Internship  
@@ -58,3 +59,5 @@ Silakan buat halaman dan tampilkan data berdasarkan API di atas.
 Silakan gunakan kreativitas Anda untuk membuat dan menyusun halaman di atas (kualitas tampilan akan menjadi nilai lebih).
 
 Halaman Wajib Responsive
+
+
